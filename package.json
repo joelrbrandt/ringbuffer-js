@@ -1,6 +1,6 @@
 {
-  "name": "@thirdroom/ringbuffer",
-  "version": "0.1.0",
+  "name": "@joelrbrandt/ringbuffer",
+  "version": "0.2.0",
   "description": "thread safe data structures for javascript",
   "contributors": [
     {
