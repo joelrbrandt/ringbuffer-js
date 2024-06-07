@@ -7,5 +7,5 @@ ported from https://github.com/padenot/ringbuf.js/blob/main/js/ringbuf.js
 # Install
 
 ```
-yarn add @thirdroom/ringbuffer
+yarn add @joelrbrandt/ringbuffer
 ```

@@ -1,6 +1,6 @@
 {
-  "name": "@thirdroom/ringbuffer",
-  "version": "0.1.0",
+  "name": "@joelrbrandt/ringbuffer",
+  "version": "0.3.0",
   "description": "thread safe data structures for javascript",
   "contributors": [
     {
@@ -16,7 +16,10 @@
   "license": "MPL-2.0",
   "type": "module",
   "files": [
-    "dist"
+    "dist",
+    "src",
+    "README.md",
+    "LICENSE"
   ],
   "types": "./dist/RingBuffer.d.ts",
   "main": "./dist/RingBuffer.js",
